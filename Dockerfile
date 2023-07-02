@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "radhikakl8123@gmail.com" 
+MAINTAINER "radhikak8123@gmail.com" 
 COPY ./project3-cicd-for-webapp.war /usr/local/tomcat/webapps
